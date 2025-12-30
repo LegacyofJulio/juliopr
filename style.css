@@ -108,7 +108,7 @@ h1{
 @media (max-width:600px){
     img{
         height: 33vh;
-        width: 63%;
+        width: 75%;
         border-radius: 70%;
     }
 }
